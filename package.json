@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/jurrish/buffer-callback-practice/issues"
   },
-  "homepage": "https://github.com/jurrish/buffer-callback-practice#readme"
+  "homepage": "https://github.com/jurrish/buffer-callback-practice#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
 }
